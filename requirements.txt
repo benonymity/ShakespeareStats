@@ -1,0 +1,6 @@
+requests==2.27.1
+argparse==1.4.0
+numpy==1.22.4
+matplotlib==3.5.2
+tabulate==0.8.9
+pyfiglet==0.8.post1

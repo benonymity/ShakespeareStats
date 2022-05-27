@@ -1,0 +1,37 @@
+All's Well That Ends Well,all_well
+As You Like It,as_you
+Antony and Cleopatra,a_and_c
+A Comedy of Errors,com_err
+Coriolanus,coriolan
+Cymbeline,cymbelin
+A Midsummer Night's Dream,dream
+Hamlet,hamlet
+Henry IV Part I,hen_iv_1
+Henry IV Part II,hen_iv_2
+Henry V,hen_v
+Henry VIII,hen_viii
+Henry VI Part 1,hen_vi_1
+Henry VI Part 2,hen_vi_2
+Henry VI Part 3,hen_vi_3
+The Life and Death of King John,john
+Julius Caesar,j_caesar
+King Lear,lear
+Love's Labor's Lost,lll
+Macbeth,macbeth
+The Merchant of Venice,merchant
+Much Ado About Nothing,much_ado
+Measure for Measure,m_for_m
+The Merry Wives of Windsor,m_wives
+Othello,othello
+Pericles,pericles
+Richard II,rich_ii
+Richard III,rich_iii
+Romeo and Juliet,r_and_j
+The Taming of the Shrew,taming
+The Tempest,tempest
+Timon of Athens,timon
+Titus Andronicus,titus
+Troilus and Cressida,troilus
+Two Gentlemen of Verona,two_gent
+Twelfth Night,t_night
+A Winter's Tale,win_tale
