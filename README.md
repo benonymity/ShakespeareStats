@@ -1,7 +1,18 @@
 # Shakespearean Stats
 Simple Python script to analyze and parse Shakespeare plays and extract some statistics in useful formats.
 ## Usage
-`python3 shakespeare.py [-g Graph lines over scenes] [-s Save lines over scenes as a CSV file] [-p Print stats to terminal]`
+Download the repository:
+```sh
+git clone https://github.com/benonymity/ShakespeareStats.git
+```
+Then open the ShakespeareStats directory in your terminal, and assuming you have Python installed, run
+```sh
+pip3 install -r requirements.txt
+```
+then you should be able to run 
+```sh
+python3 shakespeare.py [-g Graph lines over scenes] [-s Save lines over scenes as a CSV file] [-p Print stats to terminal]
+```
 
 When you run the program you can select from the list of known Shakespeare plays, and use the command line arguments to export statistics in the format you desire.
 
